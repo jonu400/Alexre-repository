@@ -1,8 +1,5 @@
 trigger:
 - main
-
-strategy:
- 
 pool:
 name: Azure Pipelines
 
